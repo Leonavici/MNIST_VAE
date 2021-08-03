@@ -8,4 +8,4 @@ Sample of generated numbers similar to MNIST dataset
 ---------------
 ![Generated numbers](https://github.com/Leonavici/MNIST_VAE/blob/main/notebooks/sample2.png)
 
-Project is done on a single [Jupyter notebook](https://github.com/Leonavici/MNIST_VAE/blob/main/notebooks/1.0-al-mnist-autoencoder.ipynb).
+Project can be found in a single [Jupyter notebook](https://github.com/Leonavici/MNIST_VAE/blob/main/notebooks/1.0-al-mnist-autoencoder.ipynb).
