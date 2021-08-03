@@ -5,4 +5,6 @@ Building and generating new images based on MNIST dataset using Variational Auto
 
 Project is done on a Jupyter notebook.
 
-![alt text](https://github.com/Leonavici/MNIST_VAE/blob/main/notebooks/sample2.png)
+Sample of generated numbers similar to MNIST dataset
+---------------
+![Generated numbers](https://github.com/Leonavici/MNIST_VAE/blob/main/notebooks/sample2.png)
